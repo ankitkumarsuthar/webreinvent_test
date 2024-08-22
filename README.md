@@ -92,18 +92,6 @@ This is a simple To-Do List application built with Laravel 9 and Bootstrap. The 
 - **SweetAlert2**: A library for creating beautiful alerts and confirmations.
 - **AJAX**: Used for asynchronous operations without page reload.
 
-## Screenshots
-
-(Include screenshots of the application if possible)
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
-## Contributing
-
-If you would like to contribute to this project, please fork the repository and submit a pull request. We welcome all contributions!
-
 ## Contact
 
-If you have any questions or need further assistance, feel free to reach out to the project maintainer at your.email@example.com.
+If you have any questions or need further assistance, feel free to reach out to the project maintainer at ankitgate1@gmail.com.
