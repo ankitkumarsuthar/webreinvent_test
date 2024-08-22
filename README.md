@@ -15,7 +15,6 @@ This is a simple To-Do List application built with Laravel 9 and Bootstrap. The 
 - PHP version 8.0 or higher
 - Composer
 - Laravel 9.x
-- Node.js and npm (for running npm scripts)
 - XAMPP, WAMP, or any local server environment
 
 ## Installation
